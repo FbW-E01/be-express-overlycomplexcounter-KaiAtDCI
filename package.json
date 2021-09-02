@@ -1,0 +1,24 @@
+{
+  "name": "be-express-overlycomplexcounter-KaiAtDCI",
+  "version": "1.0.0",
+  "description": "Create an Express server, which will simply keep track of a single number. Your server will have four endpoints:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-express-overlycomplexcounter-KaiAtDCI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-express-overlycomplexcounter-KaiAtDCI/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-express-overlycomplexcounter-KaiAtDCI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
